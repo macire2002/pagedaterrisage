@@ -1,0 +1,25 @@
+.card img {
+  object-fit: cover;
+  height: 200px;
+}
+#accueil {
+  background-image: url("client-profite-du-parfum-dans-magasin-luxueux-lors-visite.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  color: white;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  #apropos {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 80px 20px;
+    background-color: #f4f4f4;
+    color: black;
+  }
+
+  
